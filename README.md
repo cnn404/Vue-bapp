@@ -1,7 +1,5 @@
 # bopen
 
-> 港美股经纪人挂靠
-
 ## Build Setup
 
 ``` bash
